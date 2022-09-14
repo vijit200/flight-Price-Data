@@ -3,7 +3,7 @@ import pickle
 from flask_cors import cross_origin
 import pandas as pd 
 import numpy as np
-import mysql.connector as conn
+
 import sklearn
 
 
